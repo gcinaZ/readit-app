@@ -1,0 +1,9 @@
+# Ignore Visual Studio working files
+.vs/
+*.vsidx
+*.slnx
+
+# Node/React build artifacts
+node_modules/
+build/
+dist/
